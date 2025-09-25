@@ -23,7 +23,7 @@ Our mission is to make proving progress **credible, comparable, and verifiable**
 
 - **Project Board** — roadmap and execution tracking for V3.  
   → See **Project Board** in [`ethproofs/pm`](https://github.com/ethproofs/pm).  
-  Direct link: **[Project Board](https://github.com/ethproofs/pm/projects/2)** 
+  Direct link: **[Project Board](https://github.com/orgs/ethproofs/projects/2)** 
 
 ---
 

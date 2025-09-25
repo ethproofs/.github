@@ -19,7 +19,7 @@ Our mission is to make proving progress **credible, comparable, and verifiable**
 
 - **PRD (Ethproofs v3)** — the canonical product spec defining vision, features, and success metrics.  
   → See the PRD in the project-management repo: [`ethproofs/pm`](https://github.com/ethproofs/pm) and open the **PRD** there.  
-  Direct link: **[`PRD.md`]([https://github.com/ethproofs/pm/PRD/PRD.md](https://github.com/ethproofs/pm/blob/main/PRD/PRD.md))**
+  Direct link: **[`PRD.md`]([https://github.com/ethproofs/pm/PRD/PRD.md](https://github.com/ethproofs/pm/blob/main/PRD/PRD.md)**
 
 - **Project Board** — roadmap and execution tracking for V3.  
   → See **Project Board** in [`ethproofs/pm`](https://github.com/ethproofs/pm).  

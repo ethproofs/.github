@@ -1,5 +1,7 @@
 # Ethproofs
 
+![Header PNG](../assets/header.png)
+
 Ethproofs is a public-good platform tracking, benchmarking, and accelerating zk proving for Ethereum’s L1 on the path to **enshrined proofs**. We provide a neutral, research-grade interface—proof explorer, dashboards, and open schemas—to help the ecosystem move from pre-Phase 0 to real-time proving while preserving maximum decentralization.
 
 Our mission is to make proving progress **credible, comparable, and verifiable**:
@@ -11,7 +13,7 @@ Our mission is to make proving progress **credible, comparable, and verifiable**
 
 - **PRD (Ethproofs v3)** — the canonical product spec defining vision, features, and success metrics.  
   → See the PRD in the project-management repo: [`ethproofs/pm`](https://github.com/ethproofs/pm) and open the **PRD** there.  
-  Direct link: **TODO**
+  Direct link: **[`PRD.md`](./PRD/PRD.md)**
 
 - **Project Board** — roadmap and execution tracking for V3.  
   → See **Project Board** in [`ethproofs/pm`](https://github.com/ethproofs/pm).  

@@ -1,7 +1,5 @@
 # Ethproofs
 
-![Header PNG](../assets/header.png)
-
 Ethproofs is a public-good platform tracking, benchmarking, and accelerating zk proving for Ethereum’s L1 on the path to **enshrined proofs**. We provide a neutral, research-grade interface—proof explorer, dashboards, and open schemas—to help the ecosystem move from pre-Phase 0 to real-time proving while preserving maximum decentralization.
 
 |             | **phase 0**<br>*early adopters* | **phase 1**<br>*delayed proving* | **phase 2**<br>*mandatory proofs* | **phase 3**<br>*enshrined proofs* |
@@ -17,13 +15,13 @@ Our mission is to make proving progress **credible, comparable, and verifiable**
 
 ### Planning & Requirements
 
-- **PRD (Ethproofs v3)** — the canonical product spec defining vision, features, and success metrics.  
-  → See the PRD in the project-management repo: [`ethproofs/pm`](https://github.com/ethproofs/pm) and open the **PRD** there.  
+- **PRD (Ethproofs v3)** — the canonical product spec defining vision, features, and success metrics.
+  → See the PRD in the project-management repo: [`ethproofs/pm`](https://github.com/ethproofs/pm) and open the **PRD** there.
   Direct link: **[`PRD.md`](https://github.com/ethproofs/pm/blob/main/PRD/PRD.md)**
 
-- **Project Board** — roadmap and execution tracking for V3.  
-  → See **Project Board** in [`ethproofs/pm`](https://github.com/ethproofs/pm).  
-  Direct link: **[Project Board](https://github.com/orgs/ethproofs/projects/2)** 
+- **Project Board** — roadmap and execution tracking for V3.
+  → See **Project Board** in [`ethproofs/pm`](https://github.com/ethproofs/pm).
+  Direct link: **[Project Board](https://github.com/orgs/ethproofs/projects/2)**
 
 ---
 
